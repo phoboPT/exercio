@@ -1,0 +1,243 @@
+[
+  {
+    "_id": "646932dedded23b00cfbc496",
+    "index": 0,
+    "guid": "e6514c71-e14a-4ec6-98ae-cc48dbac4335",
+    "isActive": false,
+    "name": "ipod",
+    "price": 360.96
+  },
+  {
+    "_id": "646932de5db465292d35c732",
+    "index": 1,
+    "guid": "b789a669-0736-4dce-86dd-426b1420caae",
+    "isActive": false,
+    "name": "keyboard",
+    "price": 363.09
+  },
+  {
+    "_id": "646932de327e43b238f58f93",
+    "index": 2,
+    "guid": "bfb248d7-10ce-4360-85c3-bdc0541baf70",
+    "isActive": false,
+    "name": "hub",
+    "price": 224.9
+  },
+  {
+    "_id": "646932ded73e3bf41cb048b7",
+    "index": 3,
+    "guid": "5cf4b27a-ea1b-426d-bb1c-cdd391b539d5",
+    "isActive": true,
+    "name": "raspberry",
+    "price": 109.81
+  },
+  {
+    "_id": "646932de6373aee685ae964c",
+    "index": 4,
+    "guid": "727191a5-4cd4-449d-b119-7d4bd86efac4",
+    "isActive": false,
+    "name": "pen",
+    "price": 25.73
+  },
+  {
+    "_id": "646932de6911cb574d7001a4",
+    "index": 5,
+    "guid": "570c31bf-4483-4487-9843-9220ad58757f",
+    "isActive": false,
+    "name": "stand",
+    "price": 429.3
+  },
+  {
+    "_id": "646932de2632f524166655f1",
+    "index": 6,
+    "guid": "6a1b161b-0730-402c-9857-a0b4cb1d3c43",
+    "isActive": true,
+    "name": "bed",
+    "price": 77.38
+  },
+  {
+    "_id": "646932de8432beaff6e56195",
+    "index": 7,
+    "guid": "42661301-05f3-432b-8658-b1e61c0c3ae8",
+    "isActive": false,
+    "name": "printer",
+    "price": 341.35
+  },
+  {
+    "_id": "646932dea52508e8cbb5ef54",
+    "index": 8,
+    "guid": "deeee94e-6342-4e32-aa50-06ecbdc4ef67",
+    "isActive": false,
+    "name": "Asus",
+    "price": 453.33
+  },
+  {
+    "_id": "646932decfdd815c8818da12",
+    "index": 9,
+    "guid": "7203f770-8b84-4051-9355-7d89bfc15758",
+    "isActive": true,
+    "name": "paper",
+    "price": 57.03
+  },
+  {
+    "_id": "646932de10c17568bf1421cc",
+    "index": 10,
+    "guid": "64580da0-e812-465c-b84f-a406844442ac",
+    "isActive": false,
+    "name": "telemovel",
+    "price": 10.45
+  },
+  {
+    "_id": "646932def9dcb8b90d70ec05",
+    "index": 11,
+    "guid": "bbb2f157-d54d-4763-b1a7-5a4ad2cfe119",
+    "isActive": false,
+    "name": "brother",
+    "price": 287.32
+  },
+  {
+    "_id": "646932dea44e15d188f69c50",
+    "index": 12,
+    "guid": "d2cb97e2-53b5-4d18-9c7e-4644bb8d79f5",
+    "isActive": true,
+    "name": "mac",
+    "price": 400.37
+  },
+  {
+    "_id": "646932de37d3a88449d2473e",
+    "index": 13,
+    "guid": "d658beca-401e-448b-96c4-f2c0b3e7345c",
+    "isActive": true,
+    "name": "HP",
+    "price": 478.35
+  },
+  {
+    "_id": "646932de61c5b24a66be1117",
+    "index": 14,
+    "guid": "e33852f1-b995-4594-8ee1-dcb8e815b201",
+    "isActive": false,
+    "name": "carteira",
+    "price": 497.02
+  },
+  {
+    "_id": "646932dea624ecbfcc9813a0",
+    "index": 15,
+    "guid": "b2d60fc0-5d24-4670-a7c8-e28ae14276fc",
+    "isActive": true,
+    "name": "ipad",
+    "price": 222.86
+  },
+  {
+    "_id": "646932de11c360663ee68690",
+    "index": 16,
+    "guid": "d979c051-925f-4ddb-a4af-493ed2daefb4",
+    "isActive": true,
+    "name": "book",
+    "price": 299.85
+  },
+  {
+    "_id": "646932de99bc8d27c5b085f4",
+    "index": 17,
+    "guid": "e0e4ad2f-2702-4634-bcf0-d87684d36178",
+    "isActive": true,
+    "name": "mouse",
+    "price": 402.18
+  },
+  {
+    "_id": "646932de0297436ec23f74fc",
+    "index": 18,
+    "guid": "4ef58021-253d-466a-aee5-7974a8ab6e0e",
+    "isActive": true,
+    "name": "wardrobe",
+    "price": 237.89
+  },
+  {
+    "_id": "646932de4c67a2f821899a5e",
+    "index": 19,
+    "guid": "bf7a91c1-6592-44ba-b888-782c910520b4",
+    "isActive": true,
+    "name": "chair",
+    "price": 253.73
+  },
+  {
+    "_id": "646932dea8197a887e7928b7",
+    "index": 20,
+    "guid": "5f04b240-d460-47ec-a92f-a7e59ed85893",
+    "isActive": true,
+    "name": "computer",
+    "price": 375.54
+  },
+  {
+    "_id": "646932de1dacaa088eb5a9a5",
+    "index": 21,
+    "guid": "b7a8af4a-cb81-4c7b-9abe-d662bce17e97",
+    "isActive": true,
+    "name": "hub usb",
+    "price": 469.9
+  },
+  {
+    "_id": "646932ded67146d0d999b38f",
+    "index": 22,
+    "guid": "e70d16fa-0ee1-49a7-8df3-35c984d504a3",
+    "isActive": true,
+    "name": "bicicle",
+    "price": 428.06
+  },
+  {
+    "_id": "646932de5cbc78cba46774ad",
+    "index": 23,
+    "guid": "605e1eab-e3f3-465b-9eb8-2a4f46f0027f",
+    "isActive": false,
+    "name": "scanner",
+    "price": 77.72
+  },
+  {
+    "_id": "646932de4471f6e803fd6067",
+    "index": 24,
+    "guid": "c33eefd9-f447-466e-b004-a113c2814049",
+    "isActive": true,
+    "name": "Acer",
+    "price": 262.86
+  },
+  {
+    "_id": "646932dea6b8dd22a3d7427b",
+    "index": 25,
+    "guid": "46bbb000-17f2-4155-8f7b-b17d5a5ee6d2",
+    "isActive": true,
+    "name": "Lenovo",
+    "price": 194.27
+  },
+  {
+    "_id": "646932de74be6e33df1b4aa6",
+    "index": 26,
+    "guid": "5fdacc19-af84-49bb-95a5-ae1a56e3bdec",
+    "isActive": false,
+    "name": "iphone",
+    "price": 168.55
+  },
+  {
+    "_id": "646932debd4586daf82c1f77",
+    "index": 27,
+    "guid": "6d9064a3-ab8f-4971-989e-d8adaa495c3b",
+    "isActive": true,
+    "name": "monitor",
+    "price": 278.43
+  },
+  {
+    "_id": "646932ded9f9740befe21b74",
+    "index": 28,
+    "guid": "3475cebc-a560-4557-8f55-b7cef1227f4f",
+    "isActive": false,
+    "name": "ball",
+    "price": 154.57
+  },
+  {
+    "_id": "646932de90c7e6dedbaf430d",
+    "index": 29,
+    "guid": "ceeaea7d-c676-4ea0-90bb-df25a59419aa",
+    "isActive": true,
+    "name": "cups",
+    "price": 288.19
+  }
+]
+
